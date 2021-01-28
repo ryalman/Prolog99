@@ -10,7 +10,7 @@ problems. I also could not provide descriptive comments for all questions.
 
 **Thanks to Werner Hett for maintaining such a great problem set.**
 
-#### Some Links
+#### Links
 
 [The Power Of Prolog](https://www.metalevel.at/prolog).
 
