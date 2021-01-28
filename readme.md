@@ -6,7 +6,7 @@ Please refer to the original solutions at
 The solutions here may not be optimal.
 
 Please note that I did not number the solutions but I grouped them as the 
-problems. I also could not provide descriptive comments for all questions.
+problems.
 
 **Thanks to Werner Hett for maintaining such a great problem set.**
 
